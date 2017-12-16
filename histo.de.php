@@ -23,6 +23,9 @@ $histo[] = "1 EVEN\n2 TYPE Dampfmaschine wurde konstruiert\n2 DATE 1712\n2 NOTE 
 // Napoleon 
 $histo[] = "1 EVEN\n2 TYPE Napoleon wird Kaiser von Frankreis\n2 DATE 1804, s. https://de.wikipedia.org/wiki/Napoleon_Bonaparte";
 
+// Telefon 
+$histo[] = "1 EVEN\n2 TYPE Erfindung des Morsetelegraph\n2 DATE 1837\n2 NOTE durch den Amerikaner Samuel F. B. Morse, s. https://de.wikipedia.org/wiki/Telefon#Geschichte_des_Telefons";
+
 // Glühbirne 
 $histo[] = "1 EVEN\n2 TYPE Erfindung der Glühbirne \n2 DATE 27 JAN 1880\n2 NOTE durch die Patentanmeldung Thomas Edinsons, s. https://de.wikipedia.org/wiki/Gl%C3%BChlampe";
 
@@ -45,5 +48,14 @@ $histo[] = "1 EVEN\n2 TYPE Bau der Berliner Mauer\n2 DATE 13 AUG 1961\n2 NOTE sy
 
 // Mondlandung
 $histo[] = "1 EVEN\n2 TYPE Erster Mensch auf dem Mond\n2 DATE 21 JUL 1969\n2 NOTE Neil Armstrong betritt als erster Mensch den Mond (Apollo 11), s. https://de.wikipedia.org/wiki/Mondlandung#Menschen_auf_dem_Mond";
+
+// Tschernobyl 
+$histo[] = "1 EVEN\n2 TYPE Reaktorkatastrophe\n2 DATE 26 APR 1986\n2 NOTE in Tschernobyl findet eine Kernschmelze statt, die weite Teile Europas Radioaktiv kontaminiert, s. https://de.wikipedia.org/wiki/Nuklearkatastrophe_von_Tschernobyl";
+
+// TV  
+$histo[] = "1 EVEN\n2 TYPE Erfindung des TV\n2 DATE 1886\n2 NOTE durch Paul Nipkow der die Idee in einem Patent darstellt, s. https://de.wikipedia.org/wiki/Fernsehger%C3%A4t";
+
+// www
+$histo[] = "1 EVEN\n2 TYPE World Wide Web\n2 DATE 26 APR 1989\n2 NOTE das www wird für kommerzielle Nutzung freigegeben, s. https://de.wikipedia.org/wiki/Internet#1969%E2%80%931983_Vorl%C3%A4ufer_Arpanet";
 
 ?> 
